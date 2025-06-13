@@ -2,7 +2,6 @@
 
 An automated pipeline for creating an AI-generated Instagram influencer, featuring image generation, face swapping, and scheduled posting.
 
-![AI Influencer Example](https://via.placeholder.com/800x200.png?text=AI+Influencer+Bot) <!-- Placeholder image -->
 
 ## Table of Contents
 - [Features](#features)
